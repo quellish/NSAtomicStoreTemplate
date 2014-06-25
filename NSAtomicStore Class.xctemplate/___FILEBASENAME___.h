@@ -11,7 +11,7 @@
 #import <Foundation/Foundation.h>
 #import <CoreData/CoreData.h>
 
-extern NSString * const	___FILEBASENAMEASIDENTIFIER___Type;
+FOUNDATION_EXPORT NSString * const	___FILEBASENAMEASIDENTIFIER___Type;
 
 @interface ___FILEBASENAMEASIDENTIFIER___ : NSAtomicStore
 
